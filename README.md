@@ -78,8 +78,8 @@ Each response is evaluated based on:
 This project demonstrates that local LLMs like Llama 3.2 can be effectively used for customer support tasks while ensuring data privacy and eliminating API costs.
 
 ---
-
 ## 👩‍💻 Author
 
-Swetha
+**Swetha**  
+B.Tech (CSE) Student  
 Aditya College of Engineering and Technology (ACET)
